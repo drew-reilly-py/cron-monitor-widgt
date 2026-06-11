@@ -1,0 +1,7 @@
+.build/
+.clang-module-cache/
+.swiftpm-cache/
+Cron Monitor Desktop Widget.app/
+Sources/CronMonitorDesktopWidget/Generated/
+*.log
+.DS_Store
